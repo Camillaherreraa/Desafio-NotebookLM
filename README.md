@@ -1,7 +1,7 @@
 Planejamento de Carreira em Tecnologia
 =================OBJETIVO=================
 
-Este caderno temático foi desenvolvido para servir como um Guia de Navegação Estratégica para quem deseja ingressar no mercado de tecnologia. O foco central é desmistificar o caminho de aprendizado para as trilhas de Frontend, Backend e Full Stack.
+Este NotebookLM foi desenvolvido para servir como um Guia de Navegação Estratégica para quem deseja ingressar no mercado de tecnologia. O foco central é desmistificar o caminho de aprendizado para as trilhas de Frontend, Backend e Full Stack.
 
 Objetivos de Estudo:
 
